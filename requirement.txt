@@ -1,0 +1,9 @@
+subprocess
+requests
+time
+re
+scapy
+BeautifulSoup
+python-nmap
+*우선적으로 별도의 nmap 프로그램도 설치되어야함 (npcap포함) https://nmap.org/download.html#windows
+프로그램 설치이후 pip install python-nmap
