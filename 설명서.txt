@@ -17,8 +17,8 @@ requirement.txt 에 있는 필요 패키지 설치
 
 실행 후 스캔할 URL 입력
 입력 예시)
-https://test.com/        o
-https://test.com         x
-192.168.0.25              x
+https://test.com/       o
+https://test.com        x
+192.168.0.25            x
 http://192.168.0.25/    o
 http://192.168.0.25	    x 
