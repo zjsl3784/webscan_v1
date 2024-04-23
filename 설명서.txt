@@ -16,7 +16,7 @@ requirement.txt 에 있는 필요 패키지 설치
 웹 사이트에 로그인이 필요한 경우 -> 33 Line의 headers 값에 로그인 후 세션쿠키 값을 넣어주시면 됩니다. 
 
 
-실행 후 스캔할 URL 입력
+실행 후 스캔할 URL 입력   -> 이후 5분~ 10정도 시간소요
 입력 예시)
 https://test.com/       o
 https://test.com        x
