@@ -1,0 +1,24 @@
+Email : qkrtngus211@naver.com
+
+-사용법-
+
+List 디렉터리에 있는 파일중 List1.txt 파일 사용을 권장합니다. 
+
+WebScan_by_psh.py  파일을 수정합니다. 
+
+320 Line의 WordList 경로를 자신의 상황에 맞게 수정합니다.
+
+requirement.txt 에 있는 필요 패키지 설치 
+
+해당 파이썬 코드는 포트스캔 기능을 포함하고 있습니다. 
+국내에서는 허가 받지 않은 곳에 무단으로 포트스캔을 사용하는 것은 불법입니다. 
+
+
+
+실행 후 스캔할 URL 입력
+입력 예시)
+https://test.com/        o
+https://test.com         x
+192.168.0.25              x
+http://192.168.0.25/    o
+http://192.168.0.25	    x 
